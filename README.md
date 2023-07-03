@@ -6,7 +6,7 @@
 - e-mail: zpeed@zpeed.com.br
 - Discord: https://discord.gg/WDwDNc8T
 - Youtube: https://youtube.com/c/AlexZuotoski
-- My website: zpeed.com.br
+- My website: https://zpeed.com.br
 
 <!---
 Alex-Zuotoski/Alex-Zuotoski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
